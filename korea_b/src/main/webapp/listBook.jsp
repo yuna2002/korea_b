@@ -1,4 +1,3 @@
-
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -8,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>도서 등록</h1>
-	<hr>
+	<h1>도서 목</h1>
 </body>
 </html>
